@@ -3,7 +3,7 @@ public class main{
 		int x = 1;
 		if(x ==2)
 		{
-			System.out.print("hello worlwerwesdfsdfrd 1213sdfdsfsqeqwewqe231233");
+			System.out.print("hello worlwerwesddfsfsdfsdfsdfrd 1213sdfdsfsqeqwewqe231233");
 		}
 }
 }
